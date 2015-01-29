@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/davidfung/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/1.7.1/697e3a1fa094a983cd12f7f6f61abf9c6ea52e2/gson-1.7.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0697e3a1fa094a983cd12f7f6f61abf9c6ea52e2">
+        <dex dex="/Users/davidfung/AndroidstudioProjects/YVR Flight Time/app/build/intermediates/pre-dexed/release/gson-1.7.1-97b3da34789c2f5089eaf709ea702cfec47eb978.jar" />
+    </item>
+
+</items>
