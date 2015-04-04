@@ -27,7 +27,7 @@ import com.google.gson.Gson;
 public class FlightTime extends Activity {
 
     private static final String TAG = "flighttime.yvr";
-    private static final String APPKEY = "2208556623";
+    private static final String APPKEY = "3336669991";
     private static final String AIRPORT = "yvr";
     private static final String CHECKURL = "http://flight.amg99.com/%s/%s/%s/%s";
     private static final String PREF_FLIGHTNO = "flightno";
